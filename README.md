@@ -5,7 +5,7 @@
 
 - 💬 me pergunte sobre **Inteligência Artificial e Astronomia**
 
-- 📫 contate-me no email **jantonioaparecidoj333@gmail.com**
+- 📫 contate-me no email **antoniomedeirosdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
