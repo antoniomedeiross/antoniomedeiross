@@ -3,9 +3,8 @@
 
 - 🌱 eu estou estudando **Python, Javascript, HTML e CSS**
 
-- 💬 me pergunte sobre **Inteligência Artificial, Astronomia e Música**
+- 💬 me pergunte sobre **Astronomia e Música**
 
-- 📫 contate-me no email **antoniomedeirosdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
