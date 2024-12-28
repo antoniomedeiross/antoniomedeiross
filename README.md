@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o Antonio!</h1>
 <h3 align="center">Estudante de programação</h3>
 
-- 🌱 eu estou estudando **Python, Javascript, React, Html e Css**
+- 🌱 eu estou estudando **C, Java, Back-end**
 
 - 💬 me pergunte sobre **Astronomia e Música**
 
