@@ -1,9 +1,8 @@
 <h1 align="center">Olá, sou o Antonio!</h1>
-<h3 align="center">Estudante de programação</h3>
+<h3 align="center">Estudante de Engenharia de Computação</h3>
 
-- 🌱 eu estou estudando **C, Java, Back-end**
-
-- 💬 me pergunte sobre **Astronomia e Música**
+Olá, me chamo Antonio Medeiros!
+Atualmente, sou estudante do curso de Engenharia de Computação na Universidade Estadual de Feira de Santana (UEFS), no 3º semestre. Durante minha trajetória acadêmica, adquiri experiência com diversas linguagens de programação, como **Python, C, JavaScript**, e estou expandindo meus conhecimentos em **Java**. Embora ainda esteja em processo de aprendizado, meu foco está em me especializar como desenvolvedor fullstack, com ênfase no back-end. Além de ter um interesse profundo pela área de hardware e **sistemas embarcados**
 
 <div style="display: inline_block"><br>
   <h3 align="left">Languages and Tools:</h3>
