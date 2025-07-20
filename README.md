@@ -17,9 +17,11 @@ Atualmente, sou estudante do curso de Engenharia de Computação na Universidade
 ### Front
 ![Frontend](https://skillicons.dev/icons?i=html,css,js,react)
 ### Back
-![Backend](https://skillicons.dev/icons?i=java,python,c,godot)
+![Backend](https://skillicons.dev/icons?i=java,python,c,godot,spring,maven)
 ### Hardware / IoT
 ![Backend](https://skillicons.dev/icons?i=arduino,c,cpp)
+### Tools
+![Tools](https://skillicons.dev/icons?i=postgres,git,github)
 
 ---
 
