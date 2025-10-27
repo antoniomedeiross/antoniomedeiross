@@ -37,7 +37,7 @@ Tenho um interesse profundo pela área de hardware e sistemas embarcados, sou me
 ### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/antonio-medeiros-baa8b2260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio-medeiros-baa8b2260" height="50" width="60" /></a>
-<a href="https://instagram.com/antonio_me.deiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antonio_me.deiros" height="50" width="60" /></a>
+<a href="https://instagram.com/antonioo.medeiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antonio_me.deiros" height="50" width="60" /></a>
 </p>
 
 
