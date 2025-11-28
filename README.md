@@ -17,13 +17,13 @@ Tenho um interesse profundo pela área de hardware e sistemas embarcados, sou me
  
 ### Languages and Tools
 ### Front
-![Frontend](https://skillicons.dev/icons?i=html,css,js,react)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,flutter)
 ### Back
 ![Backend](https://skillicons.dev/icons?i=java,python,c,godot,spring,maven)
 ### Hardware / IoT
 ![Backend](https://skillicons.dev/icons?i=arduino,c,cpp)
 ### Tools
-![Tools](https://skillicons.dev/icons?i=postgres,git,github)
+![Tools](https://skillicons.dev/icons?i=docker,postgres,git,github,vscode,idea)
 
 ---
 
