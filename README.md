@@ -9,7 +9,7 @@
 <h3 align="center">Estudante de Engenharia de Computação</h3>
 
 Olá, me chamo Antonio Medeiros!
-Atualmente, sou estudante do curso de Engenharia de Computação na Universidade Estadual de Feira de Santana (UEFS), no 4º semestre. Durante minha trajetória acadêmica, adquiri experiência com diversas linguagens de programação, como Python, C, JavaScript, e Java. Meu foco está em me especializar como desenvolvedor fullstack, com ênfase no back-end.
+Atualmente, sou estudante do curso de Engenharia de Computação na Universidade Estadual de Feira de Santana (UEFS), no 5º semestre. Durante minha trajetória acadêmica, adquiri experiência com diversas linguagens de programação, como Python, C, JavaScript, e Java. Meu foco está em me especializar como desenvolvedor fullstack, com ênfase no back-end.
 
 Tenho um interesse profundo pela área de hardware e sistemas embarcados, sou membro ativo da Liga de Robótica da UEFS, onde participo de projetos que ampliam minha compreensão prática e teórica sobre essas áreas.
 
